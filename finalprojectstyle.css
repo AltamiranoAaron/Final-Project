@@ -1,0 +1,23 @@
+body {
+       background-color: black;
+       font-family: "Courier New", Courier, monospace;
+       font-size: 12px;
+       margin: 0px;
+       }
+       
+header {
+         background-color: #ff69b4;
+         color: black;
+         margin: 12px;
+         height: 55px;
+         border-radius: 6px;
+         text-align: center;
+         font-size: 15px;
+         }
+         
+nav {
+      background-color: #ff69b4;
+      margin: 12px;
+      height: 25px;
+      border-radius: 6px;
+      text-align: right;
